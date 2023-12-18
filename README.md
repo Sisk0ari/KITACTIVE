@@ -3,7 +3,7 @@
 
 ## Тест-план:
 
-Тест-план находится в файле "Test plan - Test IT - KITACTIVE.xlsx". Создан на платформе [TestIT](https://testit.software/ "ссылка на сайт"). Для удобства использования предлагаю сделать сортировку столбца "ID" от А до Я.
+Тест-план находится в файле "Test plan - Test IT - KITACTIVE.xlsx". Создан на платформе [TestIT](https://testit.software/ "ссылка на сайт").
 
 В файле "Results - Test IT - KITACTIVE.xlsx" содержатся предполагаемые результаты прогонов тестов.
 
