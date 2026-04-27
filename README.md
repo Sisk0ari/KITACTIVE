@@ -52,5 +52,5 @@ Android Studio · Agile/Scrum
 
 ## Контакты
 
-LinkedIn: linkedin.com/in/iuliia-sivokho-a62756233  
+LinkedIn: [linkedin.com/in/iuliia-sivokho-a62756233  ](https://www.linkedin.com/in/iuliia-sivokho-a62756233)
 Email: y.sivokho@inbox.ru
